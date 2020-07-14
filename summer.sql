@@ -1,4 +1,3 @@
-drop database db_summer;
 create database db_summer;
 use db_summer;
 
